@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  rt-catalog-bundle:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2025-01-06T06:37:40.37078521Z"
+    description: Catalog for Environment Manager Bundles.
+    digest: bb8d7765b55f6e7af950f968d3c20dbea845c6bac24091e19df9df5968854781
+    maintainers:
+    - name: Environment Manager Framework Team
+    name: rt-catalog-bundle
+    type: resourcetemplate
+    urls:
+    - https://github.com/niravparikh05/envmgr-templates/releases/download/envmgr-0.0.1/envmgr-0.0.1.tgz
+    version: 0.0.1
+generated: "2025-01-06T06:37:40.37078521Z"
