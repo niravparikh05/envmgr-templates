@@ -5,7 +5,7 @@ entries:
     appVersion: 0.0.1
     created: "2025-01-06T06:37:40.37078521Z"
     description: Catalog for Environment Manager Bundles.
-    digest: 83852b5129b3d124c054919041ea19b640b1230addc71c3d47af8415570d33fe
+    digest: bb8d7765b55f6e7af950f968d3c20dbea845c6bac24091e19df9df5968854781
     maintainers:
     - name: Environment Manager Framework Team
     name: catalog-bundle
