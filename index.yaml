@@ -9,8 +9,8 @@ entries:
     maintainers:
     - name: Environment Manager Framework Team
     name: catalog-bundle
-    type: resourcetemplate
+    type: application
     urls:
-    - https://github.com/niravparikh05/envmgr-templates/releases/download/envmgr-0.0.1/envmgr-0.0.1.tgz
+    - https://github.com/niravparikh05/envmgr-templates/releases/download/v0.0.1/catalog-bundle.tgz
     version: 0.0.1
 generated: "2025-01-06T06:37:40.37078521Z"
